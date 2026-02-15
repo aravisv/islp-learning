@@ -17,4 +17,6 @@ https://mohamed-badry.github.io/islp-solutions/README.html
 ## Progress
 - [x] Chapter 2: Statistical learning
 - [x] Chapter 3: Linear regression
-- [ ] Chapter 4: Classification
+- [x] Chapter 4: Classification
+- [ ] Chapter 5: Resampling Methods
+- [ ] Chapter 6: Linear model selection and regularization
